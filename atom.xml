@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>STREAM &amp; CYBER</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-03-21T06:24:05.355Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Kelly Inn</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>cyberpunk2077</title>
+    <link href="http://example.com/2023/03/21/cyberpunk2077/"/>
+    <id>http://example.com/2023/03/21/cyberpunk2077/</id>
+    <published>2023-03-21T06:24:05.000Z</published>
+    <updated>2023-03-21T06:24:05.355Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>

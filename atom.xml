@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>STREAM &amp; CYBER</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>https://kiosa.me/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://kiosa.me/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://kiosa.me/"/>
   <updated>2023-03-21T06:24:05.355Z</updated>
-  <id>http://example.com/</id>
+  <id>https://kiosa.me/</id>
   
   <author>
     <name>Kelly Inn</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>cyberpunk2077</title>
-    <link href="http://example.com/2023/03/21/cyberpunk2077/"/>
-    <id>http://example.com/2023/03/21/cyberpunk2077/</id>
+    <link href="https://kiosa.me/2023/03/21/cyberpunk2077/"/>
+    <id>https://kiosa.me/2023/03/21/cyberpunk2077/</id>
     <published>2023-03-21T06:24:05.000Z</published>
     <updated>2023-03-21T06:24:05.355Z</updated>
     
